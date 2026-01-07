@@ -17,3 +17,4 @@ Privacy concerns
 Unexpected events cannot always be predicted
 What next?
 Add smartwatch support, company tools, and better behavior learning.
+<img width="495" height="357" alt="Scherm­afbeelding 2026-01-07 om 03 09 09" src="https://github.com/user-attachments/assets/61e233a4-5521-41d1-a79c-982da4ebc73d" />
