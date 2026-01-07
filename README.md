@@ -1,3 +1,9 @@
+# SmartOnTime AI
+
+Building AI course project
+
+
+
 SmartOnTime AI
 Final project for the Building AI course
 Summary
