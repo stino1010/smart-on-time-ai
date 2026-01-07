@@ -2,6 +2,7 @@
 
 Building AI course project
 
+## Summary
 
 
 SmartOnTime AI
